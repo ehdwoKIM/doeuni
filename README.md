@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doeun</h1>
 <h3 align="center">A Passionate Developer From South Korea</h3>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/doeun-kim-b47437279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doeun-kim-b47437279" height="30" width="40" /></a>
@@ -24,5 +22,12 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-
-
+<h3 align="left">Community Involvement:</h3>
+<ul>
+  <li><strong>UMC 6th Server Member:</strong> March 2024 - August 2024</li>
+  <li><strong>GDSC SSWU Core Member (Education team):</strong> September 2023 - June 2024</li>
+  <li><strong>NAVER AI RUSH 2023:</strong> September 2023 - December 2023</li>
+  <li><strong>IBM Korea Global Mentoring (Representative Mentee):</strong> September 2023 - December 2023</li>
+  <li><strong>CJ SW Creative Camp University Volunteer Group, CJ UNIT 9th:</strong> August 2023 - January 2024</li>
+  <li><strong>World Friends Korea IT Volunteer:</strong> June 2023 - November 2023</li>
+</ul>
