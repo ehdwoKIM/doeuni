@@ -8,7 +8,7 @@
   - [[4월 정기세션]실무에서 자주 사용하는 툴 : ELK(Elasticsearch, Logstash, Kibana)& 메세지큐(RabbitMQ, Kafka)](https://gdsc-sungshin.tistory.com/49)
   - [[10월 정기세션]개발 프로젝트 협업툴 교육](https://gdsc-sungshin.tistory.com/2)
   
-- 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능, 머신러닝 이론 및 실습, 한국문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[최우수 프로젝트상]한국지능정보사회진흥원 원장상](https://www.instagram.com/it__sathi/)
+- 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능, 머신러닝 이론 및 실습, 한국 문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[최우수 프로젝트상]한국지능정보사회진흥원 원장상](https://www.instagram.com/it__sathi/)
 
 
 - UMC 6기 Server팀 2024.03 ~ 2024.08 [[Repository]](https://github.com/SSWU-UMC-6TH) 
