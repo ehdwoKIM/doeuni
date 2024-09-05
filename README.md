@@ -26,7 +26,7 @@
   <li><a href="https://routeport.co.kr/">대화로 추천받는 내 여행지 Route Proter</li>
 </ul>
 
-## 👯 기술스택
+## 👯 Stacks
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/SujinJeong">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white&link=https://github.com/SujinJeong">
