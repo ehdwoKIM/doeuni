@@ -16,7 +16,7 @@
 - CJ SW창의캠프 대학생 봉사단 CJ UNIT 9기 2023.08 ~ 2024.01 [[베스트 퍼포먼스상]CJ올리브네트웍스 이사상](https://www.instagram.com/cjsw.unit?igsh=MTl1ZmJ0cjR0YThkbQ==)
 - IBM Korea Global Mentoring 대표멘티 2023.09 ~ 2023.12 [[Review]](https://www.linkedin.com/posts/doeun-kim-b47437279_wiset-ibm-korea-%EB%A9%98%ED%86%A0%EB%A7%81%EC%9D%B4-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%9C%ED%95%99%EA%B8%B0%EB%8F%99%EC%95%88-%ED%95%A8%EA%BB%98-%ED%95%B4%EC%A4%80-activity-7142577304697733120-_WKf?utm_source=share&utm_medium=member_ios)
 
-## **💕**  Project
+## **🦧**  Project
 
 <ul>
   <li><a href="https://github.com/real-estate-contract">외국인 비대면 부동산 전자계약 서비스[한국스마트정보교육원 주관 SW 개발 공모전 장려상]</a></li>
