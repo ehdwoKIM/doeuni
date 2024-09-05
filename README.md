@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Do+Eun+˙ᵕ˙+&nbsp;)
-</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+😛+&nbsp;)
 </div>
@@ -16,8 +16,6 @@
   - [[코딩테스트 스터디]교내 2024-1 러닝스터디 우수활동 그룹 선정](https://gdsc-sungshin.tistory.com/62)
   
 - 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능, 머신러닝 이론 및 실습, 한국 문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[최우수 프로젝트상]한국지능정보사회진흥원 원장상](https://www.instagram.com/it__sathi/)
-
-
 - UMC 6기 Server팀 2024.03 ~ 2024.08 [[Repository]](https://github.com/SSWU-UMC-6TH)[[교내 아이디어톤 우수상]](notfound)
 - NAVER AI RUSH 2023.09 ~ 2023.12
 - CJ SW창의캠프 대학생 봉사단 CJ UNIT 9기 2023.08 ~ 2024.01 [[베스트 퍼포먼스상]CJ올리브네트웍스 이사상](https://www.instagram.com/cjsw.unit?igsh=MTl1ZmJ0cjR0YThkbQ==)
