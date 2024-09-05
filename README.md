@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Do+Eun+˙ᵕ˙+&nbsp;)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+😛+&nbsp;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+&nbsp;)
 
 
 
