@@ -23,9 +23,9 @@
 </p>
 
 <h3 align="left">Community Involvement:</h3>
-- 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
+- 🌱 I’m currently learning react, redux, tailwind, mongodb 📊📈🧬🧮.
 - 💬 Ask me about Java, Python, Spring, MicroServices, Anugular, React
-- 📫 Reach me through the email *mnpsnuwan@gmail.com*.
-- 👨‍💻 All about my details are available at my [Personal Portfolio](https://mnpsnuwan.github.io/).
+- 📫 Reach me through the email *ehdms1115@gmail.com*.
+- 👨‍💻 All about my details are available at my [Personal Portfolio].
 - 😄 Pronouns as she//her
 - ⚡ Fun facts 🏊🏸🎱🏓♟️🎞️🎵📓⛺🗺️
