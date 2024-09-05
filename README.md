@@ -26,7 +26,7 @@
 <ul>
   <li><a href="https://github.com/real-estate-contract">외국인 비대면 부동산 전자계약 서비스 [한국스마트정보교육원 주관 SW 개발 공모전 장려상]</a></li>
   <li><a href="https://apps.apple.com/kr/app/%EC%88%98%EC%A0%95%EA%B4%91%EC%82%B0/id1641132567">성신여대 자체 커뮤니티 앱 수정광산 [창업동아리]</a></li>
-  <li><a href="https://routeport.co.kr/">대화로 추천받는 내 여행지 Route Proter</li>
+  <li><a href="https://routeport.co.kr/">대화로 추천받는 내 여행지 Route Proter</a></li>
 </ul>
 
 ## **👯** Stacks
