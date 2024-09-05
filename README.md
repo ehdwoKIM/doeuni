@@ -3,6 +3,7 @@
 
 ## **🙌**  Experience
 
+- 신한투자증권 프로 디지털 아카데미 5기 2024.09 ~ ing
 - Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 2023.09 ~ 2024.06
   - [[3월 정기세션]비동기와 동시성 & 블록과 논블록(with Python 비동기 프로그래밍 실습](https://gdsc-sungshin.tistory.com/47)
   - [[4월 정기세션]실무에서 자주 사용하는 툴 : ELK(Elasticsearch, Logstash, Kibana)& 메세지큐(RabbitMQ, Kafka)](https://gdsc-sungshin.tistory.com/49)
