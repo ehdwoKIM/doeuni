@@ -6,7 +6,7 @@
 <img src="https://mblogthumb-phinf.pstatic.net/20161019_292/mono2411_1476803435735eSONP_JPEG/%B8%B6%C0%CC%C5%AC%C1%B6%B4%F8%B8%ED%BE%F011_%283%29.jpg?type=w800">
 
 
-## **🙌**  Experience 111222333
+## **🙌**  Experience
 
 - 신한투자증권 프로 디지털 아카데미 5기 2024.09 ~ ing
 - Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 2023.09 ~ 2024.06
@@ -41,5 +41,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:000@gmail.com)](mailto:000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1ways8my._.se1f/)](https://www.instagram.com/doeunnim)
+**[중요] 인스타그램 팔로우 부탁드립니다!**
 
 
