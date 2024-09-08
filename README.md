@@ -1,10 +1,35 @@
+<div align=center>
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Do+Eun+˙ᵕ˙+&nbsp;)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+&nbsp;)
 
 <img src="https://i.pinimg.com/736x/fc/24/df/fc24dfa4e9d6266e49a681db004a0fc1.jpg">
-
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+</div>
 
 ## **🙌**  Experience
 
@@ -41,6 +66,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:000@gmail.com)](mailto:000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1ways8my._.se1f/)](https://www.instagram.com/doeunnim)
-**[중요] 인스타그램 팔로우 부탁드립니다!**
 
 
