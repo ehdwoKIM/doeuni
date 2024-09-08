@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+&nbsp;)
 
-<img src="https://mblogthumb-phinf.pstatic.net/20161019_292/mono2411_1476803435735eSONP_JPEG/%B8%B6%C0%CC%C5%AC%C1%B6%B4%F8%B8%ED%BE%F011_%283%29.jpg?type=w800">
+<img src="https://i.pinimg.com/736x/fc/24/df/fc24dfa4e9d6266e49a681db004a0fc1.jpg">
 
 
 ## **🙌**  Experience
