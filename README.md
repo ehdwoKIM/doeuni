@@ -59,14 +59,6 @@
 <br>
 .
 <br>
-<img src="https://i.pinimg.com/736x/fc/24/df/fc24dfa4e9d6266e49a681db004a0fc1.jpg">
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
 .
 <br>
 .
@@ -99,15 +91,7 @@
 <br>
 .
 <br>
-.
 
-
-<img src="https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/602/21dae6ac6cbb36c0cba40f8b008148e5_res.jpeg" width="550" height="550">
-<br>
-.
-<br>
-.
-<br>
 .
 <br>
 .
