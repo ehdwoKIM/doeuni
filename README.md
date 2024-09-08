@@ -80,7 +80,6 @@
 .
 <br>
 <img src="IMG_4573.JPG" width="350" height="550">
-.
 <br>
 .
 <br>
