@@ -67,7 +67,17 @@
 <br>
 .
 <br>
-<img src="IMG_4573.JPG" width="300" height="450">
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+<img src="IMG_4573.JPG" width="350" height="550">
 .
 <br>
 .
@@ -103,7 +113,7 @@
 
 <ul>
   <li><a href="https://github.com/real-estate-contract">외국인 비대면 부동산 전자계약 서비스 [한국스마트정보교육원 주관 SW 개발 공모전 장려상]</a></li>
-  <li><a href="https://apps.apple.com/kr/app/%EC%88%98%EC%A0%95%EA%B4%91%EC%82%B0/id1641132567">성신여대 자체 커뮤니티 앱 수정광산 [창업동아리]</a></li>
+  <li><a href="https://apps.apple.com/kr/app/%EC%88%98%EC%A0%95%EA%B4%91%EC%82%B0/id1641132567">교내 자체 커뮤니티 앱 수정광산 [창업동아리]</a></li>
   <li><a href="https://routeport.co.kr/">대화로 추천받는 내 여행지 Route Proter</a></li>
 </ul>
 
@@ -114,12 +124,71 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black&link=https://github.com/SujinJeong">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/SujinJeong">
 
+<div align=center>
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+  .
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+</div>
+
 
 ## **🦍** Final Vocabulary
 <div align=center>
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160912_92%2Fle0790_1473666450876am8kG_JPEG%2F%25C0%25DA%25C1%25B81.jpg&type=sc960_832">
 </div>
 
+<div align=center>
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+  .
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+</div>
 
 ## 💬 Contact
 
