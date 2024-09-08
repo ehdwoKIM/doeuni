@@ -67,6 +67,7 @@
 <br>
 .
 <br>
+<img src="IMG_4573.JPG" width="300" height="450">
 .
 <br>
 .
