@@ -5,6 +5,58 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=FFFF00&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+&nbsp;)
 
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+<img src="https://image.fmkorea.com/files/attach/new/20201128/486616/2569459745/3228072696/99b983892094b5c6d2fc3736e15da7d1.jpg">
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
 <img src="https://i.pinimg.com/736x/fc/24/df/fc24dfa4e9d6266e49a681db004a0fc1.jpg">
 <br>
 .
